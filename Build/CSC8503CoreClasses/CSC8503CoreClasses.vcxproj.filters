@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Uni\New Repos\2022\Build\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\Debug.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameWorld.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\RenderObject.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\Transform.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\RenderObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\BehaviourAction.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\BehaviourNode.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\BehaviourNodeWithChildren.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\BehaviourSelector.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\BehaviourSelector.cpp">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\BehaviourSequence.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\BehaviourSequence.cpp">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PushdownMachine.h">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PushdownMachine.cpp">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PushdownState.h">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PushdownState.cpp">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\State.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\StateMachine.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\StateMachine.cpp">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\StateTransition.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NavigationGrid.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NavigationGrid.cpp">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NavigationMesh.cpp">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NavigationMesh.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NavigationMap.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NavigationPath.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\AABBVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\CapsuleVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\CapsuleVolume.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\CollisionDetection.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\CollisionDetection.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\CollisionVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\OBBVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\QuadTree.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\QuadTree.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\Ray.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\SphereVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameClient.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameClient.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameServer.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\GameServer.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NetworkBase.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NetworkBase.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NetworkObject.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NetworkObject.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NetworkState.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\NetworkState.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\Constraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PositionConstraint.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PositionConstraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\OrientationConstraint.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\OrientationConstraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PhysicsObject.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PhysicsObject.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PhysicsSystem.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\PhysicsSystem.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\callbacks.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\list.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\list.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\protocol.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\protocol.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\win32.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\win32.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\enet.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\time.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\types.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\utility.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\compress.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\host.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\packet.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\enet\peer.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Uni\New Repos\2022\Build\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Uni\New Repos\2022\Build\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Uni\New Repos\2022\CSC8503CoreClasses\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AI">
+      <UniqueIdentifier>{4766FEF1-B6A2-323E-B8CB-368A227A6059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Behaviour Trees">
+      <UniqueIdentifier>{4A6BC313-E89D-36BA-AB5F-B016A39C0FEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Pathfinding">
+      <UniqueIdentifier>{8B54E144-642C-34B6-928D-CC8D0BB6800A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Pushdown Automata">
+      <UniqueIdentifier>{9C4E4621-4A69-3B96-A162-25DBE75A696B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\State Machine">
+      <UniqueIdentifier>{B745E1D5-32A0-392D-9E7A-CF48E6CF27AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision Detection">
+      <UniqueIdentifier>{DB2FBE3A-81F1-3B61-9CCE-D66DCE269639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8577732A-2FF0-3AAF-9470-A89BE12AFA5E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Networking">
+      <UniqueIdentifier>{ED7F0627-882A-3FFD-BED9-7670628053A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{65CD5F13-14CE-3FC8-A3F0-276A2393707D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{86D23796-904A-367A-920E-7AFB0090F1BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{447BE890-B888-3D03-BEE4-246B90FFACDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="eNet">
+      <UniqueIdentifier>{69B824A3-0BD7-3A87-9156-EF3DE86AEF89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
